@@ -1,4 +1,4 @@
-Fast and vibe VHS shader
+Fast and vibe VHS shader. For installation you need to move the VHShader folder directly into .minecraft/shaders
 
 <img width="1280" height="725" alt="image" src="https://github.com/user-attachments/assets/15d1841f-e20f-46b8-9139-6e899f83d589" />
 
